@@ -1,0 +1,71 @@
+[33mcommit da12dbdcef47a16552ef47557b56e632eee8fb6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{0} (selejr10 <selebest10@gmail.com>)
+Reflog message: reset: moving to HEAD~2
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 17:05:44 2023 -0700
+
+    My first commit
+
+[33mcommit 51c7a89a43d44163bb8ba1e27e5f143b92dec708[m
+Reflog: HEAD@{1} (selejr10 <selebest10@gmail.com>)
+Reflog message: checkout: moving from update_script to master
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 18:14:41 2023 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 987ef3b0b5d3d28d014a59c75111d0ee48cdb7cc[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Reflog: HEAD@{2} (selejr10 <selebest10@gmail.com>)
+Reflog message: commit: My personal work
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 18:32:13 2023 -0700
+
+    My personal work
+
+[33mcommit 51c7a89a43d44163bb8ba1e27e5f143b92dec708[m
+Reflog: HEAD@{3} (selejr10 <selebest10@gmail.com>)
+Reflog message: checkout: moving from master to update_script
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 18:14:41 2023 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 51c7a89a43d44163bb8ba1e27e5f143b92dec708[m
+Reflog: HEAD@{4} (selejr10 <selebest10@gmail.com>)
+Reflog message: commit: Starting to code today, so cool
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 18:14:41 2023 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 37ac8fe3ebb8b8d76ab2ebd859a45eab56d8b656[m
+Reflog: HEAD@{5} (selejr10 <selebest10@gmail.com>)
+Reflog message: reset: moving to HEAD^
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 17:14:11 2023 -0700
+
+    My second readme
+
+[33mcommit 712b8a3857c9da0b61a27eb40a905788e8c80f1c[m[33m ([m[1;31morigin/master[m[33m)[m
+Reflog: HEAD@{6} (selejr10 <selebest10@gmail.com>)
+Reflog message: commit: Starting to code today, so coo
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 17:33:33 2023 -0700
+
+    Starting to code today, so coo
+
+[33mcommit 37ac8fe3ebb8b8d76ab2ebd859a45eab56d8b656[m
+Reflog: HEAD@{7} (selejr10 <selebest10@gmail.com>)
+Reflog message: commit: My second readme
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 17:14:11 2023 -0700
+
+    My second readme
+
+[33mcommit da12dbdcef47a16552ef47557b56e632eee8fb6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{8} (selejr10 <selebest10@gmail.com>)
+Reflog message: commit (initial): My first commit
+Author: selejr10 <selebest10@gmail.com>
+Date:   Thu Jul 27 17:05:44 2023 -0700
+
+    My first commit
